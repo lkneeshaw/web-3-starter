@@ -1,4 +1,6 @@
 /* Grand Central Station */
 body {
-  color: white;
   background: #123456; }
+
+h1 {
+  color: white; }
